@@ -9,7 +9,7 @@ Por causa do desacoplamento que ela permite, porque para o cliente não importa 
 
 **Soluções:** [Usando formas estáticas e dinâmicas](src/github/factorymethod/shape/ShapeFactory.java).
 
-**Arquitetura:**
+**Arquitetura:**<br />
 ![Factory Method](assets/factory-method.png)
 
 
