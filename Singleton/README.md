@@ -6,5 +6,5 @@ O padrão mais usado e o mais simples.
 
 **Soluções:** [Usando Lazyload](src/github/singleton/SecurityManager1.java), [Criando ao inciar a aplicação](src/github/singleton/SecurityManager2.java), [Em ambientes multi-thread](src/github/singleton/SecurityManager3.java).
 
-**Arquitetura:**
+**Arquitetura:**<br />
 ![Singleton](assets/singleton.png)
