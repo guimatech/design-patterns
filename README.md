@@ -1,5 +1,6 @@
 # Design Patterns
 Design Patterns repository with examples
- - [Singleton](Singleton)
- - [Factory Method](FactoryMethod)
- - [Abstract Factory](AbstractFactory)
+ - Design Patterns de Criação
+  - [Singleton](Singleton)
+  - [Factory Method](FactoryMethod)
+  - [Abstract Factory](AbstractFactory)
