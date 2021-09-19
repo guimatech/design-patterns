@@ -4,3 +4,7 @@ Repositório de Design Patterns com exemplos
    - [Singleton](Singleton)
    - [Factory Method](FactoryMethod)
    - [Abstract Factory](AbstractFactory)
+
+ - Design Patterns de Estrutura
+   - [Adapter](Adapter)
+   - [Composite](Composite)
