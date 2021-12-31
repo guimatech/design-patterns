@@ -7,7 +7,7 @@
 **Porque ela é tão interessante?**<br />
 Permite que você ao invés de utilizar várias camadas de herança compor objetos cada vez mais complexos um sobre o outro adicionando camadas flexíveis de comportamento.
 
-**Soluções:** [Usando interface_para_compor_decorators_adicionando_camadas_de_comportamento](src/github/decorator/shape/ShapeDecorator.java).
+**Soluções:** [Usando interface para compor decorators adicionando camadas de comportamento](src/github/decorator/shape/ShapeDecorator.java).
 
 **Arquitetura:**<br />
 ![Decorator](assets/decorator.png)
