@@ -10,3 +10,4 @@ Repositório de Design Patterns com exemplos
    - [Decorator](Structural/Decorator)
  - Design Patterns Behavioral
    - [Observer](Behavioral/Observer)
+   - [Strategy](Behavioral/Strategy)
