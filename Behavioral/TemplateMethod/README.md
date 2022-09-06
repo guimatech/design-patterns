@@ -6,7 +6,7 @@ classes concretas.
 
 **Problemática:** Tendo um algoritmo bem definido você quer que alguns passos desse algoritmo sejam definidos de forma diferente.
 
-**Solução:** [Injetando forma de movimento para o José](src/github/templatemethod/App.java).
+**Solução:** [Preparando bebidas](src/github/templatemethod/App.java).
 
 **Arquitetura:**<br />
 ![Template Method](assets/templatemethod.png)
