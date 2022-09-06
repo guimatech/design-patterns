@@ -11,3 +11,4 @@ Repositório de Design Patterns com exemplos
  - Design Patterns Behavioral
    - [Observer](Behavioral/Observer)
    - [Strategy](Behavioral/Strategy)
+   - [Template Method](Behavioral/TemplateMethod)
